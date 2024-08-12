@@ -1,0 +1,46 @@
+
+header {
+	background-color: #1774ed;
+	color: white;
+   display: flex;
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   flex-direction: row;
+  
+}
+
+nav {
+	background-color: #28e2ff;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height:  75px;
+   
+   
+}
+
+section {
+	background-color: #f4f4f4;
+}
+
+footer {
+	background-color:  #1774ed;
+color: white;
+}
+
+a,li{
+   text-decoration: none;
+   color:white;
+   font-size: 20px;
+}
+
+
+h2{
+   font-size: 30px;
+   margin-left:10px;
+}
+p{
+   font-size: 20px;
+   margin-left:5px;
+}
